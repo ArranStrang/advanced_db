@@ -1,0 +1,21 @@
+[
+    { "id": 1,"title":"Dune", "author":"Frank Herbert", "genre":"Sci-fi" , "release":"1965" , "retailPrice":"£7.00" , "read":"Yes"   },
+    { "id": 2, "title":"Inner Game of Tennis", "author":"W.T Gallwey", "genre":"Self-help" , "release":"1974" , "retailPrice":"£7.50" , "read":"Yes" },
+    { "id": 3, "title":"Cyberia", "author":"Douglas Rushkoff", "genre":"Non-fiction" , "release":"1994" , "retailPrice":"£15.00" , "read":"Yes" },
+    { "id": 4, "title":"Slaughter House Five", "author":"Kurt Vonnegut", "genre":"Sci-fi" , "release":"1969" , "retailPrice":"£4.00" , "read":"Yes" },
+    { "id": 5, "title":"The Pattern on the Stone", "author":"Danny Hillis", "genre":"Non-fiction" , "release":"1998" , "retailPrice":"£4.50" , "read":"Yes" },
+    { "id": 6, "title":"Fear and Loathing in Las Vegas", "author":"Hunter S. Thompson", "genre":"Ficiton" , "release":"1971" , "retailPrice":"£6.00" , "read":"Yes"   },
+    { "id": 7, "title":"Moby Dick", "author":"W.T Gallwey", "genre":"Fiction" , "release":"1851" , "retailPrice":"£5.50" , "read":"Yes" },
+    { "id": 8, "title":"Norwegian Wood", "author":" Ryū Murakami", "genre":"Fiction" , "release":"1987" , "retailPrice":"£5.00" , "read":"Yes" },
+    { "id": 9, "title":"Coin Locker Babies", "author":"Ryū Murakami", "genre":"Fiction" , "release":"1980" , "retailPrice":"£8.99" , "read":"Yes" },
+    { "id": 10, "title":"Great Expectations", "author":"Charles Dickens", "genre":"Fiction" , "release":"1861" , "retailPrice":"£10.00" , "read":"Yes" },
+    { "id": 11, "title":"For Whom the Bell Tolls", "author":"Ernest Hemingway", "genre":"Historical  Fiction" , "release":"1940" , "retailPrice":"£8.99" , "read":"Yes"   },
+    { "id": 12, "title":"The Great Gatsby", "author":"Scott Fitzgerald", "genre":"Historical  Fiction" , "release":"1925" , "retailPrice":"£3.50" , "read":"No" },
+    { "id": 13, "title":"The Grapes of Wrath", "author":"John Steinbeck", "genre":"Historical Fiction" , "release":"1939" , "retailPrice":"£15.00" , "read":"No" },
+    { "id": 15, "title":"The Old Man and The Sea", "author":"Ernest Hemingway", "genre":"Ficton" , "release":"1952" , "retailPrice":"£3.00" , "read":"Yes" },
+    { "id": 16, "title":"The Da Vinchi Code", "author":"Dan Brown", "genre":"Thriller" , "release":"2003" , "retailPrice":"£3.99" , "read":"Yes" },
+    { "id": 17, "title":"In Cold Blood", "author":"Truman Capote", "genre":"Non-fiction" , "release":"1965" , "retailPrice":"£7.00" , "read":"No"   },
+    { "id": 18, "title":"Blink", "author":"Malcolm Gladwell", "genre":"Non-fiction" , "release":"2006" , "retailPrice":"£7.50" , "read":"No" },
+    { "id": 19, "title":"The Age of Surveillance Capitalism", "author":"Shoshana Zuboff", "genre":"Non-fiction" , "release":"2019" , "retailPrice":"£12.99" , "read":"Yes" },
+    { "id": 20, "title":"The Constant Gardener", "author":"John le Carre", "genre":"Thriller" , "release":"2001" , "retailPrice":"£4.00" , "read":"No" }
+]
